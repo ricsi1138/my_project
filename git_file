@@ -1,3 +1,4 @@
 void main(void){
 	console.write("Hello world!");
+	console.write("Hello world2!");
 }
